@@ -1,0 +1,6 @@
+Plan of Action
+
+This application is going to use Object oriented Programming methodology.
+
+Create a human (base) class which has common functions for a student
+Create a student class (derived)
